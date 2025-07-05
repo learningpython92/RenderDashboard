@@ -1,7 +1,8 @@
 // src/lib/api.js
 
 // This constant holds the base URL for your FastAPI backend.
-const API_BASE_URL = 'http://localhost:8000/api/v1';
+const API_BASE_URL = 'https://my-backend-latest-hik2.onrender.com/api/v1';
+
 
 /**
  * A helper function to safely build URL query strings from a filters object.
